@@ -1,0 +1,32 @@
+{
+"Preferences": {
+    "time_format": "friendly_24",
+    "logs_display_count": 10,
+    "active_tasks_count_limit": "inf",
+    "logs": {
+    "save_as_log": true,
+    "save_as_json": false,
+    "save_as_xml": false,
+    "save_as_yaml": false,
+    "save_as_csv": false,
+    "save_as_text": false,
+    "show_time": true,
+    "show_duration": true,
+    "show_id": true,
+    "display_count": 10
+    }
+},
+"Data": {
+    "tasks": {
+    "active_tasks": {
+        "count": 0,
+        "items": []
+    }
+    },
+    "logs": {
+    "count": 0,
+    "items": [],
+    "last_id": 0
+    }
+}
+}
