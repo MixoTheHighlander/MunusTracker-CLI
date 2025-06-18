@@ -2,11 +2,11 @@
 
 > **Track your time. Honor your work.**
 
-![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-red.svg)
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightblue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-yellow.svg)
-![Status](https://img.shields.io/badge/status-active-lightgreen.svg)
+![Python](https://img.shields.io/badge/python-3.12+-blue?style=for-the-badge&logo=python.svg)
+![License](https://img.shields.io/badge/license-MIT-red?style=for-the-badge&.svg)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightblue?style=for-the-badge&.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-yellow?style=for-the-badge&.svg)
+![Status](https://img.shields.io/badge/development%20status-active-lightgreen?style=for-the-badge&.svg)
 
 A powerful command-line time tracking tool that helps you monitor and log your tasks with precision and elegance.
 
@@ -21,11 +21,6 @@ It's the root of modern words like:
 - **Municipal** (related to civic duty)
 - **Remuneration** (payment for service)
 - **Communal** (shared responsibilities)
-
-## 📖 A bit of poetry
-
-A tool to log and honor the work you do — your time as a gift. <br>
-A quiet record of purpose true, in moments you uplift.
 
 ## 🚀 Features
 
