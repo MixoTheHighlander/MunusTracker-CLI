@@ -38,7 +38,7 @@ It's the root of modern words like:
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/MixoTheHighlander/MunusTracker-CLI.git
+git clone https://github.com/MichaelNewcomer/MunusTracker-CLI.git
 cd MunusTracker-CLI
 ```
 
@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💝 Credits
 
-Made with love for every CLI tool enthusiast by [Michael Newcomer](https://github.com/MixoTheHighlander).
+Made with love for every CLI tool enthusiast by [Michael Newcomer](https://github.com/MichaelNewcomer).
 
 ---
 
